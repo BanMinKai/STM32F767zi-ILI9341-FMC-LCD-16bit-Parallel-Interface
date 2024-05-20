@@ -1,4 +1,7 @@
 # STM32F767zi-ILI9341-FMC-16bit-Parallel-Interface
+
+(TO BE ADDED MORE)
+
 For my library, I imitate, modify and simplify the two following ILI9341 libraries using FSMC for STM32F4
 
 https://github.com/taburyak/STM32-ILI9341-320x240-FSMC-Library (this one is awesome, complete and useful)
